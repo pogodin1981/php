@@ -1,2 +1,0 @@
-print("Wellcome "%username#"")
-חךרעו (Ðשצ גש םשד גש)
